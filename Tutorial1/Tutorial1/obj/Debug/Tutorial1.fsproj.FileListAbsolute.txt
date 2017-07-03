@@ -1,0 +1,7 @@
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\Tutorial1.XML
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\FSharp.Core.dll
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\FSharp.Core.xml
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb

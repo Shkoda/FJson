@@ -1,0 +1,12 @@
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\Tutorial1.XML
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\FSharp.Core.dll
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\FSharp.Data.dll
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\FSharp.Data.pdb
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\FSharp.Data.xml
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\bin\Debug\FSharp.Core.xml
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\obj\Debug\TelegramClient.fsproj.Tutorial1.exe.config
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+G:\FSharpWorkspace\JsonSchemaParser\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb
