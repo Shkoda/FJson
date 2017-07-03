@@ -5,7 +5,10 @@ module Main=
     [<EntryPoint>]
     let main args =
         Console.WriteLine("hello")
-        let a = Json.constructors 
+        let a = Json.records 
+                |> Seq.toArray 
+                |> Json.sorted 
+                |> Seq.iter (fun c -> printfn "%A\n" c)
 
-        while true do Console.ReadLine()
+       // while true do Console.ReadLine()
         0
