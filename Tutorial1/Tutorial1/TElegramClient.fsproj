@@ -55,6 +55,7 @@
   </Choose>
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
+    <Compile Include="GeneratedConstructors.fs" />
     <Compile Include="JsonSchema.fs" />
     <Compile Include="Main.fs" />
     <Content Include="packages.config" />
