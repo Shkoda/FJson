@@ -8,7 +8,10 @@ module Main=
         let a = Json.records 
                 |> Seq.toArray 
                 |> Json.sorted 
-                |> Seq.iter (fun c -> printfn "%A\n" c)
+                |> Json.toStringAll
+        printfn "%s" a
+             //   |> printf
+                //|> Seq.iter (fun c -> printfn "%A\n" c)
 
        // while true do Console.ReadLine()
         0
